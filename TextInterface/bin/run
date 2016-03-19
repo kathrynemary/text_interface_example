@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require_relative '../text_interface'
+
+TextInterface.set_up
+TextInterface.run
